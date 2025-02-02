@@ -18,7 +18,7 @@ void ReadFile(string FullFilePath);
 
 int main() {
 	cout << ">> program started <<" << endl;
-	string FilePath = "/home/er/Desktop/Test.el";
+	string FilePath = "/home/er/Desktop/Test.els";
 
 	ReadFile(FilePath);
 
